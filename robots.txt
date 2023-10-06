@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /admin
+
+Disallow: /bin
+
+Disallow: /inc
+
+Disallow: /js
+
+Disallow: /backup_site

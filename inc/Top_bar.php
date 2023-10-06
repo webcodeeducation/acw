@@ -1,0 +1,7 @@
+<div class="column one">
+			
+				<ul class="contact_details">
+					<li class="slogan">Contact Us on:</li><li class="phone"><i class="icon-phone"></i><a href="tel:0123456789">0184 1234567</a></li><li class="phone"><i class="icon-phone"></i><a href="tel:1234567890">1234567890</a></li><li class="mail"><i class="icon-mail-line"></i><a href="mailto:allcodingworld@gmail.com">allcodingworld@gmail.com</a></li>				</ul>
+				
+				<ul class="social"><li class="skype"><a target="_blank" href="#" title="Skype"><i class="icon-skype"></i></a></li><li class="facebook"><a target="_blank" href="#" title="Facebook"><i class="icon-facebook"></i></a></li><li class="googleplus"><a target="_blank" href="#" title="Google+"><i class="icon-gplus"></i></a></li><li class="twitter"><a target="_blank" href="#" title="Twitter"><i class="icon-twitter"></i></a></li><li class="vimeo"><a target="_blank" href="#" title="Vimeo"><i class="icon-vimeo"></i></a></li><li class="youtube"><a target="_blank" href="#" title="YouTube"><i class="icon-play"></i></a></li><li class="flickr"><a target="_blank" href="#" title="Flickr"><i class="icon-flickr"></i></a></li><li class="linkedin"><a target="_blank" href="#" title="LinkedIn"><i class="icon-linkedin"></i></a></li><li class="pinterest"><a target="_blank" href="#" title="Pinterest"><i class="icon-pinterest"></i></a></li><li class="dribbble"><a target="_blank" href="#" title="Dribbble"><i class="icon-dribbble"></i></a></li></ul>
+			</div>

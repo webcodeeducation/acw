@@ -1,0 +1,244 @@
+[31-Jan-2017 04:35:30 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 04:37:00 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 04:44:40 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 04:46:05 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 04:50:52 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 05:04:23 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[31-Jan-2017 05:33:26 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 36
+[31-Jan-2017 05:34:53 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 36
+[01-Feb-2017 06:32:48 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 36
+[01-Feb-2017 18:02:18 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 57
+[01-Feb-2017 18:03:07 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 57
+[01-Feb-2017 18:08:07 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 57
+[01-Feb-2017 18:10:02 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[01-Feb-2017 18:17:02 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[01-Feb-2017 18:17:09 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[01-Feb-2017 18:17:51 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[01-Feb-2017 18:22:04 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[01-Feb-2017 18:25:47 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/user-signup.php on line 51
+[08-Feb-2017 04:21:07 UTC] PHP Fatal error:  Call to undefined function recaptcha_check_answer() in /home/laxmanrana/public_html/bin/contact_me.php on line 4
+[08-Feb-2017 16:09:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/laxmanrana/public_html/bin/contact_me.php on line 90
+[08-Feb-2017 16:37:07 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/laxmanrana/public_html/bin/contact_me.php on line 27
+[08-Feb-2017 16:37:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/laxmanrana/public_html/bin/contact_me.php on line 27
+[08-Feb-2017 16:39:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/laxmanrana/public_html/bin/contact_me.php on line 27
+[08-Feb-2017 16:41:34 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/laxmanrana/public_html/bin/contact_me.php on line 27
+[08-Feb-2017 17:21:24 UTC] PHP Notice:  Undefined index: userimage in /home/laxmanrana/public_html/bin/user-signup.php on line 6
+[08-Feb-2017 17:31:40 UTC] PHP Notice:  Undefined index: userimage in /home/laxmanrana/public_html/bin/user-signup.php on line 6
+[08-Feb-2017 17:31:57 UTC] PHP Notice:  Undefined index: userimage in /home/laxmanrana/public_html/bin/user-signup.php on line 6
+[19-Feb-2017 16:15:39 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:16:12 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:16:42 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:18:08 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:27:20 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:27:30 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 7
+[19-Feb-2017 16:29:25 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 41
+[19-Feb-2017 16:30:56 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 41
+[19-Feb-2017 16:31:02 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 41
+[19-Feb-2017 16:33:04 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 12
+[19-Feb-2017 16:33:14 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 12
+[19-Feb-2017 16:33:18 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 12
+[19-Feb-2017 16:34:31 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 48
+[19-Feb-2017 16:34:37 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/laxmanrana/public_html/bin/updatelikeus.php on line 48
+[24-Feb-2017 14:33:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 14:33:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 14:34:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 14:35:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 15:22:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 15:22:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 15:23:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 15:24:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[24-Feb-2017 17:29:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 04:57:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:00:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:04:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:05:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:16:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:17:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:18:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:18:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[25-Feb-2017 16:19:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/laxmanrana/public_html/bin/sendComments.php on line 31
+[26-Feb-2017 16:20:10 UTC] PHP Notice:  Undefined index: userimage in /home/laxmanrana/public_html/bin/user-signup.php on line 6
+[26-Feb-2017 16:26:46 UTC] PHP Notice:  Undefined index: userimage in /home/laxmanrana/public_html/bin/user-signup.php on line 6
+[01-Mar-2017 04:59:47 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 04:59:47 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:04:10 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:04:10 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:04:56 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:04:56 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:06:11 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:06:11 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:07:11 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:07:11 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/commentsubmit.php on line 28
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/commentsubmit.php on line 28
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/laxmanrana/public_html/bin/commentsubmit.php on line 28
+[01-Mar-2017 05:08:40 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/commentsubmit.php on line 31
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/commentsubmit.php on line 31
+[01-Mar-2017 05:08:40 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/laxmanrana/public_html/bin/commentsubmit.php on line 31
+[01-Mar-2017 05:09:06 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 05:09:06 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/laxmanrana/public_html/bin/commentsubmit.php on line 6
+[01-Mar-2017 17:37:01 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[01-Mar-2017 17:37:01 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:00:47 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:06:43 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:13:03 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:15:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:17 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:17:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 110
+[02-Mar-2017 04:22:02 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:22:02 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:22:02 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:22:02 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/laxmanrana/public_html/bin/comment.class.php on line 111
+[02-Mar-2017 04:45:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/laxmanrana/public_html/bin/commentsubmit.php on line 24
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_query(): Access denied for user 'laxmanrana'@'localhost' (using password: NO) in /home/laxmanrana/public_html/bin/commentsubmit.php on line 24
+[02-Mar-2017 04:45:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/laxmanrana/public_html/bin/commentsubmit.php on line 24
+[11-Mar-2017 17:47:43 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 59
+[11-Mar-2017 17:51:00 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 59
+[11-Mar-2017 17:52:54 UTC] PHP Notice:  Undefined variable: captcha in /home/laxmanrana/public_html/bin/contact_me.php on line 59
+[13-Mar-2017 07:28:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 07:29:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 07:29:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 07:29:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 07:30:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 07:32:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:12:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:12:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:17:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:19:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:21:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:22:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:23:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:24:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 24
+[13-Mar-2017 14:26:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:29:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:30:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:33:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:33:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:35:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:40:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:41:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:41:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:42:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:55:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:56:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:57:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:57:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:57:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 14:59:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 15:01:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 15:05:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 15:06:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[13-Mar-2017 15:10:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[14-Mar-2017 04:21:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[14-Mar-2017 04:25:28 UTC] PHP Notice:  Undefined variable: conn in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[14-Mar-2017 04:25:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[14-Mar-2017 04:25:41 UTC] PHP Notice:  Undefined variable: conn in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29
+[14-Mar-2017 04:25:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/laxmanrana/public_html/bin/updatelikeus.php on line 29

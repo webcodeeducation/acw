@@ -1,0 +1,14 @@
+.header-classic #Action_bar, .header-stack #Action_bar {
+    background-color: #2991d6;
+}
+.header-classic #Action_bar {
+    position: static;
+    background-color: #2C2C2C;
+}
+#Action_bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 30;
+}
